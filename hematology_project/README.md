@@ -1,10 +1,10 @@
 Files available:
 
 1. Data files:
-    a. training_data.csv
-        Labeled Training data
-    b. testing_data.csv
-        Unlabeled Test data
+    ⋅⋅* training_data.csv
+        ...Labeled Training data
+    ..* testing_data.csv
+        ...Unlabeled Test data
     c. data_summary.html
         Training data summary
 
